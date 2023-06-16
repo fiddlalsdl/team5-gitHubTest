@@ -9,5 +9,7 @@ public class User {
 
 	private int Age;
 	private String name;
+	private String grade;
 	private int height;
+
 }
