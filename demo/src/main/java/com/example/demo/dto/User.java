@@ -11,5 +11,4 @@ public class User {
 	private String name;
 	private String grade;
 	private int height;
-
 }
